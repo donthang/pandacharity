@@ -179,6 +179,10 @@
   padding: 2rem;
 }
 
+.contacttext{
+  font-size: 104px;
+}
+
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;

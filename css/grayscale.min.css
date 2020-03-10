@@ -33,6 +33,10 @@
 
 @media (min-width:992px){
 
+#contacttext{
+    font-size: 14px;
+}
+
 .masthead{height:100vh;padding:0}
 .masthead h1{font-size:4.5rem;line-height:4.5rem;letter-spacing:.8rem}
 .masthead h2{max-width:30rem;font-size:2.25rem}}
