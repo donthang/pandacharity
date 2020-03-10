@@ -168,7 +168,11 @@
 }
 
 .about-section p {
+<<<<<<< HEAD
   margin-bottom: 2rem;
+=======
+  margin-bottom: 2rem!important;
+>>>>>>> 71dbba97c9e3bed3ef5f0fbfe1c98595d071339a
 }
 
 .projects-section {
